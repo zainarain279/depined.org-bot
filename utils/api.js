@@ -222,4 +222,3 @@ export const claimPoints = async (token, proxy) => {
         return null;
     }
 };
-                 
